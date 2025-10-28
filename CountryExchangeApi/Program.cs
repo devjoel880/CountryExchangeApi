@@ -2,7 +2,6 @@ using CountryExchangeApi.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CountryExchangeApi.Services;
-using CountryExchangeApi.Data;
 
 
 var builder = WebApplication.CreateBuilder(args);

@@ -247,9 +247,9 @@ curl http://<PUBLIC_IP>/countries/image
 
 ## 👤 Author
 
-**[Your Name]**
+**Joel**
 Backend Engineer • .NET • Docker • AWS
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-🌐 [GitHub Profile Link]
+📧 [[devjoel880@gmail.com](mailto:your.devjoel880@gmail.com)]
+🌐 [[GitHub Profile Link](https://github.com/devjoel880/)]
 
 ---
